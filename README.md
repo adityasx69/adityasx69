@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Aditya Saraswat</h1>
-<h3 align="center">Aspiring Software Developer | Problem Solver | Data Enthusiast</h3>
+<h1 align="center">
+  Hi 👋, I'm Aditya Saraswat
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Problem+Solver;Data+Enthusiast;Future+Data+Engineer" />
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0047FF&height=120&section=header"/>
 
 ---
 
@@ -10,6 +17,13 @@ I am focused on becoming a strong problem solver and a skilled software develope
 🔥 Daily DSA practice on LeetCode  
 📊 Exploring Data Analysis  
 ⚙️ Learning Data Engineering  
+
+---
+
+## 🎯 Current Focus
+- Mastering DSA (Striver A2Z Sheet)  
+- Building Full-Stack Projects  
+- Exploring Data Engineering (ETL, Pipelines)  
 
 ---
 
@@ -56,6 +70,22 @@ I am focused on becoming a strong problem solver and a skilled software develope
 
 ---
 
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityasx69&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
 ## 🌐 Connect With Me:
 <p align="center">
   <a href="https://leetcode.com/u/adityassx/">
@@ -70,3 +100,5 @@ I am focused on becoming a strong problem solver and a skilled software develope
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,100:00F7FF&height=120&section=footer"/>
