@@ -13,33 +13,6 @@ I am focused on becoming a strong problem solver and a skilled software develope
 
 ---
 
-## 📊 Developer Dashboard  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityasx69&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/adityasx69?style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/followers/adityasx69?style=for-the-badge&color=blue" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityasx69&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasx69&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasx69&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🧠 LeetCode Dashboard  
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/adityassx?theme=dark&font=baloo&ext=heatmap" />
-</p>
-
----
-
 ## 📂 Projects & Repositories:
 
 ### 🧠 DSA & Problem Solving
@@ -69,3 +42,26 @@ I am focused on becoming a strong problem solver and a skilled software develope
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,mysql,postgres&theme=dark" />
 </p>
+
+---
+
+## 📊 Developer Dashboard  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityasx69&label=Profile%20Views&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/adityasx69?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/adityasx69?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/adityasx69?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 LeetCode  
+
+<p align="center">
+  <a href="https://leetcode.com/u/adityassx/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
+---
