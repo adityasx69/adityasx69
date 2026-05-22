@@ -3,10 +3,6 @@
 </h1>
 <h3 align="center">Aspiring Software Developer | Problem Solver | Data Enthusiast</h3>
 
-<p align="center">
-  🌐 <a href="https://www.adityasaraswat.me">Visit My Portfolio</a>
-</p>
-
 ---
 
 ## 💫 About Me:
